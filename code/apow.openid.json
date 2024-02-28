@@ -1,35 +1,50 @@
-[
-  {
-    "id": "Agama-start-Flow-36bf4135-0a6a-4dfe-b4ef-9d74e1bc0891",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-36bf4135-0a6a-4dfe-b4ef-9d74e1bc0891",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 30,
-        "y": 30
-      },
-      "inRepeatBlock": false,
-      "agamaData": {
-        "id": "Agama-start-Flow-36bf4135-0a6a-4dfe-b4ef-9d74e1bc0891",
-        "type": "Agama-start-Flow",
-        "displayName": "APOW OpenID Connect Discovery Demo",
-        "hasComment": true,
-        "comment": "",
-        "isTopLevelFlow": true,
-        "basepath": "",
-        "configParams": "{}",
-        "nodeIcon": "material-symbols:line-start-square",
-        "timeout": "",
-        "inputs": "",
-        "configs": "",
-        "flowname": "apow.openid"
-      }
-    },
-    "position": {
-      "x": 30,
-      "y": 30
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-start-Flow-36bf4135-0a6a-4dfe-b4ef-9d74e1bc0891",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-36bf4135-0a6a-4dfe-b4ef-9d74e1bc0891",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 30,
+					"y": 30
+				},
+				"inRepeatBlock": false,
+				"agamaData": {
+					"id": "Agama-start-Flow-36bf4135-0a6a-4dfe-b4ef-9d74e1bc0891",
+					"type": "Agama-start-Flow",
+					"displayName": "APOW OpenID Connect Discovery Demo",
+					"hasComment": true,
+					"comment": "",
+					"isTopLevelFlow": true,
+					"basepath": "",
+					"configParams": "{}",
+					"nodeIcon": "material-symbols:line-start-square",
+					"timeout": "",
+					"inputs": "",
+					"configs": "",
+					"flowname": "apow.openid"
+				},
+				"skake": false
+			},
+			"position": {
+				"x": 30,
+				"y": 30
+			},
+			"positionAbsolute": {
+				"x": 30,
+				"y": 30
+			}
+		}
+	],
+	"edges": [],
+	"viewport": {
+		"x": 10,
+		"y": 15,
+		"zoom": 1
+	}
+}
