@@ -54,7 +54,8 @@
                     }
                 }
             }
-        }
+        },
+        "apow.openid": {}
     },
     "name": "agama-openid"
 }
